@@ -1,3 +1,10 @@
+# dados de teste
+csv/
+parquet/
+
+# arquivos auxiliares que não devem ser salvos
+aux/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
